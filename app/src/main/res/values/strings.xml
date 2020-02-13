@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cache Valley Bus</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    
+    <string-array name="routes">
+        <item>Route 1 Extended</item>
+        <item>Route 1</item>
+        <item>Route 2</item>
+        <item>Route 3</item>
+        <item>Route 4</item>
+        <item>Route 5</item>
+        <item>Route 6</item>
+        <item>Route 7</item>
+        <item>Route 8</item>
+        <item>Route 9</item>
+        <item>Route 10</item>
+        <item>Route 11</item>
+       <!-- 
+        <item>CVN (Cache Valley North)</item>
+        <item>Franklin Caunty Connection</item>
+        <item>CVS Off Peak (CV South)</item>
+        <item>CVS Express (CV South)</item>
+        -->
+    </string-array>
+    
+    <color name="customcolor">#dfdacd</color>
+    
+    <string-array name="routeschedule">
+        <item>Monday-Friday</item>
+        <item>Saturday</item>
+        <item>M-F(Summer/USU Holiday)</item>
+        <item>Christmas Eve/New Years Eve</item>
+        <item>CV Cruise-IN Parade</item>
+        <item>No Service(Sunday/Major Holidays)</item>
+    </string-array>
+
+</resources>
